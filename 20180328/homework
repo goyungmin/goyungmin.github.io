@@ -12,14 +12,14 @@
  <table>
 <caption>20171334 고영민 시간표</caption>
 <tr><th>시간표</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th></tr>
- <tr><td>1교시</td><td>_</td><td rowspan="2">영어회화1</td> <td>37.566673</td> <td>126.978417</td> <td>126.978417</td></tr>
- <tr><td>2교시</td><td>_</td><td>_</td> <td>35.179783</td> <td>129.075000</td></tr>
- <tr><td>3교시</td><td rowspan="2">디지털논리회로</td> <td>_</td> <td>36.650469</td> <td>127.384826</td> <td>126.978417</td></tr>
- <tr><td>4교시</td><td>_</td> <td>_</td> <td>36.650469</td> <td>127.384826</td></tr>
- <tr><td>5교시</td><td>_</td> <td>디지털논리회로</td> <td>36.650469</td> <td>127.384826</td> <td>126.978417</td></tr>
- <tr><td>6교시</td><td>_</td> <td rowspan="4">c++프로그래밍</td> <td>36.650469</td> <td>127.384826</td> <td>126.978417</td></tr>
- <tr><td>7교시</td><td>_</td> <td>_</td> <td>36.650469</td> <td>127.384826</td> <td>126.978417</td> </tr>
- <tr><td>8교시</td><td>_</td> <td>_</td> <td>36.650469</td> <td>127.384826</td> <td>126.978417</td> </tr>
- <tr><td>9교시</td><td>_</td> <td>_</td> <td>36.650469</td> <td>127.384826</td> <td>126.978417</td> </tr>
+ <tr><td>1교시</td><td>_</td><td rowspan="2">영어회화1</td> <td>_</td> <td>_</td> <td>_</td></tr>
+ <tr><td>2교시</td><td>_</td><td>_</td> <td>_</td> <td>_</td></tr>
+ <tr><td>3교시</td><td rowspan="2">디지털논리회로</td> <td>_</td> <td  rowspan="2">자료구조및실습</td> <td>_</td> <td>_</td></tr>
+ <tr><td>4교시</td><td>_</td> <td>_</td> <td>_</td>></tr>
+ <tr><td>5교시</td><td>_</td> <td>디지털논리회로</td> <td>_</td> <td>_</td> <td>_</td></tr>
+ <tr><td>6교시</td><td>_</td> <td rowspan="4">c++프로그래밍</td> <td>_</td> <td>_</td> <td>_</td></tr>
+ <tr><td>7교시</td><td>_</td> <td>_</td> <td>_</td> <td>_</td> </tr>
+ <tr><td>8교시</td><td>_</td> <td>_</td> <td>_</td> <td>_</td> </tr>
+ <tr><td>9교시</td><td>_</td> <td>_</td> <td>_</td> <td>_</td> </tr>
 </table>
 </body></html>
