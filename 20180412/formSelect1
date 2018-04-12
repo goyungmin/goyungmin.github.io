@@ -1,0 +1,25 @@
+<!DOCTYPEhtml>  <!-- formSelect1.html -->
+<html>
+<head><meta charset="utf-8"/>
+<meta name="viewport"content="width=device-width,initial-scale=1"/>
+<title>폼 학습</title></head>
+<body>
+<section>
+<form action="http://jsp.dju.ac.kr/~kdhongx/ex/formSelect1.jsp" method="post"autocomplete="on">
+<fieldset> 
+ <legend>식사 선택</legend>
+ <label for="timex">시간</label>
+ <select id="timex"name="mealtime">
+  <option vaule="아침">아침</option>
+  <option vaule="점심">점심</option>
+  <option vaule="저녁"selected>점심</option></select>
+ <label for="mealx">식사</label>
+ <select id="mealx"name="meal">
+  <option vaule="백미">백미</option>
+  <option vaule="현미">현미</option>
+  <option vaule="김치">김치</option>
+  <option vaule="라면"selected>라면</option></select>
+ <button type="submit">등록</button>
+</fieldset></form>
+</section>
+</body></html>
