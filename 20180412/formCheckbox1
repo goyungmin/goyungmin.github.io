@@ -5,7 +5,7 @@
 <title>폼 학습</title></head>
 <body>
 <section>
-<form action="http://jsp.dju.ac.kr/~kdhongx/ex/formRadio1.jsp" method="post">
+<form action="http://jsp.dju.ac.kr/~kdhongx/ex/formCheckbox1.jsp" method="post">
 <fieldset> 
  <legend>취미선택</legend>
  <label for="fishing">낚시</label>
