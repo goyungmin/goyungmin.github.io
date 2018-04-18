@@ -8,10 +8,24 @@
 <form action="http://jsp.dju.ac.kr/~kdhongx/ex/formFormaction1.jsp" method="post"autocomplete="on">
 <fieldset> 
  <legend>예약자 정보</legend>
- <label for="namex">이름:</label>
- <input type="text"id="namex"name="name"placeholder="출발"/>
- <label for="tdx">도착:</label>
- <input type="text"id="tox"name="tox"placeholder="도착"/>
+  <label for="namex">이름:</label>
+  <input type="text"id="namex"name="namex"/></br>
+  <label for="telephonenumberx">번호:</label>
+  <input type="tel"id="numberx"name="numberx"placeholder="000*-0000*-0000"pattern="[0-9]{2,3}-[0-9]{3,4}-[0-9]{4}"/><br/>
+  <input type="number"id="personx"name="personx"min="1"step="1"/>
+ <legend>약속 날짜 시간 입력</legend>
+  <label for="namex">이름:</label>
+  <input type="text"id="namex"name="namex"/></br>
+  <label for="telephonenumberx">번호:</label>
+  <input type="tel"id="numberx"name="numberx"placeholder="000*-0000*-0000"pattern="[0-9]{2,3}-[0-9]{3,4}-[0-9]{4}"/><br/>
+  <input type="number"id="personx"name="personx"min="1"step="1"/>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <button type="submit">자동차</button>
  <input type="submit"value="대중교통"formaction="http://jsp.dju.ac.kr/~kdhongx/ex/formPublic1.jsp"/>
  <input type="submit"value="자전거"formaction="http://jsp.dju.ac.kr/~kdhongx/ex/formBike1.jsp"/>
